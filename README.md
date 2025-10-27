@@ -1,0 +1,1 @@
+# https://okmic.github.io/yandex_gpt_price_design_solution/
